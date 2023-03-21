@@ -1,12 +1,12 @@
 {
-"metais": 
+"metais": [
         "OURO",
         "PRATA",
         "BRONZE",
         "FERRO",
         "ALUMÍNIO"
-      ,
-      "signos": 
+      ],
+      "signos": [
         "ÁRIES",
         "TOURO",
         "GÊMEOS",
@@ -19,4 +19,5 @@
         "CAPRICÓRNIO",
         "AQUÁRIO",
         "PEIXES"
+      ]
     }
