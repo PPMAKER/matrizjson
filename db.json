@@ -1,7 +1,7 @@
 {
 
-   "elementos" : ["AGUA","FOGO","TERRA","AR"],
+   "metais" : ["OURO","PRATA","BRONZE","FERRO","ALUMÍNIO"],
 
-   "inteiros" : [1,2,3,4,5,6,7,8,9,10]
+   "signos" : ["ÁRIES","TOURO","GÊMEOS","CÂNCER","LEÃO","VIRGEM","LIBRA","ESCORPIÃO","SAGITÁRIO","CAPRICÓRNIO","AQUÁRIO","PEIXES"]
 
   }
