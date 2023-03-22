@@ -1,8 +1,8 @@
 [
 {
-"ALUMÍNIO"
+"metais" : "OURO","PRATA","BRONZE","FERRO","ALUMÍNIO"
 },     
 {
-  "PEIXES"
+  "signos" : "ÁRIES","TOURO","GÊMEOS","CÂNCER","LEÃO","VIRGEM","LIBRA","ESCORPIÃO","SAGITÁRIO","CAPRICÓRNIO","AQUÁRIO","PEIXES"
 }
 ]
