@@ -1,12 +1,12 @@
 {
-  "metais": [
+  [
     "OURO",
     "PRATA",
     "BRONZE",
     "FERRO",
     "ALUMÍNIO"
   ],
-  "signos": [
+  [
     "ÁRIES",
     "TOURO",
     "GÊMEOS",
