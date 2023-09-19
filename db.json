@@ -1,5 +1,6 @@
    {
-     "metais": ["OURO","PRATA","BRONZE","FERRO","ALUMÍNIO"],
-
-    "signos": ["ÁRIES","TOURO","GÊMEOS","CÂNCER","LEÃO","VIRGEM","LIBRA","ESCORPIÃO","SAGITÁRIO","CAPRICÓRNIO","AQUÁRIO","PEIXES"]
+    "numeros": [
+                        [20,1,19,2,18,3,17,4,16,5],
+                        [15,6,14,7,13,8,12,9,10,11]
+                    ]
    }
